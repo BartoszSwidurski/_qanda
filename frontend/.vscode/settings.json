@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/f0c0bc91-4fc7-4ca5-8747-7281c0ab3735/resourceGroups/QandAResurces/providers/Microsoft.Web/sites/qanda-frontend",
+  "appService.deploySubpath": "build"
+}
