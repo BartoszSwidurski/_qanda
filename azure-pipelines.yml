@@ -18,5 +18,5 @@ steps:
     packageType: 'sdk'
     version: '5.0.100'
 - script: dotnet build --configuration $(buildConfiguration)
-  workingDirectory: backend
+  workingDirectory: backend/QandA
   displayName: 'backend build'
